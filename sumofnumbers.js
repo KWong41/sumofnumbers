@@ -1,3 +1,8 @@
+//E26: Five problems every software engineer should be able to solve (Part 1)
+//pWOD 1
+//First Attempt: 30 mins DNF
+//Second Attempt:  45 mins completed (used Dr. Johnson's lecture video)
+//Third Attempt:
 const testNums = [1, 2, 3, 4];
 
 function sumFor(nums){
