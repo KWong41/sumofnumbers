@@ -5,6 +5,7 @@
 // Third Attempt: 11:52 (went back and forth of looking at the completed code
 // forgot to clone the repository after creating it
 // Fourth Attempt:
+
 const testNums = [1, 2, 3, 4];
 
 function sumFor(nums) {
